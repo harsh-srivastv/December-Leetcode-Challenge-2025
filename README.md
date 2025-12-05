@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2211-count-collisions-on-a-road) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
