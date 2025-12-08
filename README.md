@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
