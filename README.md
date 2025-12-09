@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1925-count-square-sum-triples) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
