@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Sorting
+|  |
+| ------- |
+| [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
