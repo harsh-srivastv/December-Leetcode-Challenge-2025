@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2211-count-collisions-on-a-road) |
+| [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
