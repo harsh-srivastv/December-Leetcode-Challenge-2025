@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3606-coupon-code-validator) |
