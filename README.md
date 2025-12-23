@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
