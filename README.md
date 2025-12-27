@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3606-coupon-code-validator) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3433-count-mentions-per-user) |
@@ -154,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
