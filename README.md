@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/3583-count-special-triplets) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-srivastv/December-Leetcode-Challenge-2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
